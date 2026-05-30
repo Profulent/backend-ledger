@@ -9,6 +9,7 @@ function connectTODB() {
     })
     .catch(err => {
       console.log("Error connecting to DB");
+      console.log(err)
       process.exit(1);
     })
 
