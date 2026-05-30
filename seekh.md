@@ -131,3 +131,7 @@ Therefore:
 user.comparePassword(password)
 
 works.
+
+## nodemailer
+
+allows easy email sending from Node.js apps.
